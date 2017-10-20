@@ -1,0 +1,6 @@
+[package]
+name = "blockchains"
+version = "0.1.0"
+authors = ["Martín Vásquez <pedromvasquezb@gmail.com>"]
+
+[dependencies]
