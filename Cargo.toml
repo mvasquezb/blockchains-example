@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Martín Vásquez <pedromvasquezb@gmail.com>"]
 
 [dependencies]
+eth-crypto = { git = "https://github.com/forrest-marshall/eth-crypto.git" }
